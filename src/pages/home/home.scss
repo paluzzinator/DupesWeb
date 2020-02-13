@@ -1,0 +1,11 @@
+@import "./src/styles/globals.scss";
+
+.Header {
+  font-size: $textLarge;
+}
+
+.paragraph {
+  max-width: 20rem;
+  font-size: $textSmall;
+  color: $textColor;
+}
